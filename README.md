@@ -31,4 +31,5 @@
 =====================================================
 
 [MyHomePage](https://chpark-practice-site.netlify.app) </br>
-[Mynotion](https://verbose-bugle-36b.notion.site/UX-UI-f478e30bfc0a44efb77c8f2c6b2d08e5?pvs=4)
+[Mynotion](https://verbose-bugle-36b.notion.site/UX-UI-f478e30bfc0a44efb77c8f2c6b2d08e5?pvs=4) </br>
+[MyGitHub](https://github.com/kahadra/ChparksGameDesignPlane)
