@@ -8,7 +8,7 @@
 - 백터 이미지를 포함한 SceneFlow struct와 함께 보는 UI디자인
 - 와이어프레임을 백터 이미지로 제작한것
 # 2. Asling Vita
-- 9살 소녀의 모험을 담은 Puzzle/platfommer  게임
+- 9살 소녀의 모험을 담은 __*Puzzle/platfomer*__  게임
 - 3인칭형 잠입
 - 시간과 관련된 기믹능력 보유
 # 3. Escape CUBE
@@ -27,3 +27,8 @@
 - 전세계가 전쟁에 휘말린 시대, 애국의 명분으로 강제 납치되어 병기로 개조된 인간의 일대기
 - 턴제 전략 시뮬레이션 RPG 게임
 - 선택지와 주사위를 이용한 스토리 형 TRPG 게임
+
+=====================================================
+
+[MyHomePage](https://chpark-practice-site.netlify.app) </br>
+[Mynotion](https://www.notion.so/f478e30bfc0a44efb77c8f2c6b2d08e5?pvs=4)
