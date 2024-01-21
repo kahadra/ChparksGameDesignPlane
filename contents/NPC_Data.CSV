@@ -1,0 +1,19 @@
+,,,,,
+,idx,field,type,Nullable,description
+,1,Idx,Int,N,테이블 인덱스
+,2,Name,Int,N,"NPC 이름, String Table의 idx"
+,3,Character Height,Float,N,캐릭터 높이
+,4,Character Radious,Float,N,캐릭터 지름
+,5,Character Weight,Float,N,캐릭터 무게
+,6,Character_Info_Idx,INT,N,"캐릭터 정보, String Table의 idx"
+,7,Character_Type,INT,N,캐릭터 유형
+,8,Visible_Sight,Float,N,가시거리(미터)
+,9,Talk1,String,Y,"NPC 대사1, String Table"
+,10,Talk2,String,Y,"NPC 대사2, String Table"
+,11,Talk3,String,Y,"NPC 대사3, String Table"
+,12,Talk4,String,Y,"NPC 대사4, String Table"
+,13,Talk5,String,Y,"NPC 대사5, String Table"
+,14,Talk6,String,Y,"NPC 대사6, String Table"
+,15,Talk7,String,Y,"NPC 대사7, String Table"
+,16,Talk8,String,Y,"NPC 대사8, String Table"
+,17,Talk9,String,Y,"NPC 대사9, String Table"
