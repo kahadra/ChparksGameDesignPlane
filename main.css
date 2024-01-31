@@ -19,6 +19,12 @@ body {
   );
 } */
 
+@font-face {
+  font-family: 'Timeline';
+  font-style: normal;
+  src: url(file:///C:/Windows/Fonts/Timeline/Timeline.otf);
+}
+
 .portfolio-link {
   position: fixed;
   left: 41%;
